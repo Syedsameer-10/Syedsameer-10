@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+full-stack+web+applications;Turning+ideas+into+useful+products;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL" alt="Building full-stack web applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Learning+ML+%26+DL;Exploring+AI+agents;Building+with+multiple+full-stack+frameworks;Learning+open+source;Fidelity+Summer+Intern+2027" alt="Learning ML, DL, AI agents, full-stack frameworks, and open source; Fidelity Summer Intern 2027" />
 </p>
 
 <p align="center">
@@ -42,13 +42,6 @@ I build web applications from interface to database. I like turning practical pr
 
 ---
 
-## 💼 Experience
-
-**Freelance Developer · MediLogix**  
-Helped deliver a paid client platform for processing medical device exports. I worked on parsing PSI records, storing structured data in Supabase, and refining features from client feedback.
-
----
-
 ## 🛠️ Tech Stack
 
 | | |
@@ -65,18 +58,26 @@ Helped deliver a paid client platform for processing medical device exports. I w
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syedsameer-10&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Syed Sameer's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedsameer-10&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Syed Sameer's top repository languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+    <img width="100%" src="./assets/overview.light.svg" alt="GitHub contributions, repositories, followers, and other profile stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Syedsameer-10&amp;theme=tokyonight&amp;hide_border=true" alt="Syed Sameer's GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+    <img width="100%" src="./assets/languages.light.svg" alt="Languages used across public source repositories" />
+  </picture>
 </p>
 
 ### 🟩 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Syedsameer-10&amp;theme=tokyo-night&amp;hide_border=true" alt="Syed Sameer's GitHub contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+    <img width="100%" src="./assets/contributions.light.svg" alt="GitHub contribution calendar and streaks" />
+  </picture>
 </p>
 
 ---
