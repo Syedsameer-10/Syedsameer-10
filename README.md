@@ -62,10 +62,22 @@ Helped deliver a paid client platform for processing medical device exports. I w
 
 ---
 
-## 🎭 Beyond Code
+## 📊 Stats
 
-- **Head of Marketing · Theatron:** Lead marketing for theatre productions and help plan events, logistics, and creative design.
-- **Hackathons:** Participated in IIT Road Safety Hackathon, Kurukshetra-Hacks, Smart India Hackathon, and college hackathons.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syedsameer-10&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Syed Sameer's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedsameer-10&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Syed Sameer's top repository languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Syedsameer-10&amp;theme=tokyonight&amp;hide_border=true" alt="Syed Sameer's GitHub contribution streak" />
+</p>
+
+### 🟩 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Syedsameer-10&amp;theme=tokyo-night&amp;hide_border=true" alt="Syed Sameer's GitHub contribution activity graph" />
+</p>
 
 ---
 
