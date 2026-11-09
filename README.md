@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:2F81F7&amp;height=200&amp;section=header&amp;text=Syed%20Sameer%20Ahamed%20S&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Full-Stack%20Developer%20%E2%80%A2%20CEG%20Anna%20University&amp;descSize=17&amp;descAlignY=58&amp;animation=fadeIn" alt="Syed Sameer Ahamed S — Full-Stack Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:2F81F7&amp;height=200&amp;section=header&amp;text=Syed%20Sameer%20Ahamed%20S&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=ML%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Full-Stack&amp;descSize=17&amp;descAlignY=58&amp;animation=fadeIn" alt="Syed Sameer Ahamed S — ML, AI Agents, Full-Stack" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Learning+ML+%26+DL;Exploring+AI+agents;Building+with+multiple+full-stack+frameworks;Learning+open+source;Fidelity+Summer+Intern+2027" alt="Learning ML, DL, AI agents, full-stack frameworks, and open source; Fidelity Summer Intern 2027" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=AI+Agents+%E2%80%A2+ML+%E2%80%A2+DL;Learning+Open+Source;Fidelity+Summer+Intern+2027" alt="AI Agents, ML, DL; learning open source; Fidelity Summer Intern 2027" />
 </p>
 
 <p align="center">
@@ -23,13 +23,13 @@
 ## 👋 About
 
 ```yaml
-role:    Full-Stack Developer
+role:    ML · AI Agents · Full-Stack
 base:    Chennai, India · College of Engineering, Guindy · B.Tech IT '28
 builds:  browser-based tools · full-stack web apps · data workflows
-focus:   clear interfaces · reliable APIs · useful products
+focus:   learning ML, DL, and open source · building useful products
 ```
 
-I build web applications from interface to database. I like turning practical problems into simple, working products and improving them through feedback.
+I build web applications from interface to database while learning ML, deep learning, and AI agents. I like turning practical problems into simple, working products and improving them through feedback.
 
 ---
 
@@ -58,26 +58,13 @@ I build web applications from interface to database. I like turning practical pr
 ## 📊 Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-    <img width="100%" src="./assets/overview.light.svg" alt="GitHub contributions, repositories, followers, and other profile stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-    <img width="100%" src="./assets/languages.light.svg" alt="Languages used across public source repositories" />
-  </picture>
+  <img width="100%" src="./assets/stats.svg" alt="GitHub profile stats" />
 </p>
 
 ### 🟩 Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-    <img width="100%" src="./assets/contributions.light.svg" alt="GitHub contribution calendar and streaks" />
-  </picture>
+  <img width="100%" src="./assets/contributions.svg" alt="GitHub contribution calendar" />
 </p>
 
 ---
