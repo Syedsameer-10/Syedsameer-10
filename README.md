@@ -1,42 +1,86 @@
-Hi, I'm Syed Sameer Ahamed S 👋
+<!-- HEADER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:2F81F7&amp;height=200&amp;section=header&amp;text=Syed%20Sameer%20Ahamed%20S&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Full-Stack%20Developer%20%E2%80%A2%20CEG%20Anna%20University&amp;descSize=17&amp;descAlignY=58&amp;animation=fadeIn" alt="Syed Sameer Ahamed S — Full-Stack Developer" />
+</p>
 
-**Full-stack developer · B.Tech Information Technology, College of Engineering, Guindy**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+full-stack+web+applications;Turning+ideas+into+useful+products;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL" alt="Building full-stack web applications" />
+</p>
 
-I build web applications that make complex workflows simpler. My recent work spans browser-based coding tools, full-stack commerce, and data processing. I enjoy taking a feature from its first sketch through the API, database, and user interface.
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedsameer1102/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sameerahamed7616@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Syedsameer-10"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</p>
 
-## About me
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Syedsameer-10?label=Followers&amp;style=flat-square&amp;color=2F81F7" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat-square" alt="Open to internships" />
+</p>
 
-```text
-based in      Chennai, India
-studying      Information Technology at Anna University (2024–2028)
-building      practical full-stack applications
-interested in software engineering and product development
+---
+
+## 👋 About
+
+```yaml
+role:    Full-Stack Developer
+base:    Chennai, India · College of Engineering, Guindy · B.Tech IT '28
+builds:  browser-based tools · full-stack web apps · data workflows
+focus:   clear interfaces · reliable APIs · useful products
 ```
 
-## Featured builds
+I build web applications from interface to database. I like turning practical problems into simple, working products and improving them through feedback.
 
-| Project | What I built | Stack | Live demo |
-| --- | --- | --- | --- |
-| **Run My Code** | An online code editor with custom input, execution output, error reporting, and browser file access. I integrated Judge0 through a `/run` API and containerized the execution service with Docker Compose. | Monaco Editor, Judge0, Docker, File System Access API | [Try it](https://runmy-code.vercel.app/) |
-| **Tomato** | A food ordering platform with restaurant browsing, search, cart, checkout, and order placement. I built JWT-based authentication, customer and admin roles, image management, and a cart that persists across sessions. | React, Express.js, PostgreSQL, Supabase, Cloudinary | [Explore it](https://tomato-eats.vercel.app/) |
+---
 
-## Experience
+## 🚀 Featured Builds
+
+| Project | What it does |
+|---|---|
+| [**Run My Code**](https://runmy-code.vercel.app/) | Online code editor with custom input, execution output, error reporting, and browser file access. Uses Monaco Editor, Judge0, and Docker. |
+| [**Tomato**](https://tomato-eats.vercel.app/) | Food ordering platform with restaurant browsing, menu search, cart, checkout, customer and admin roles, and image management. Uses React, Express.js, PostgreSQL, and Supabase. |
+
+---
+
+## 💼 Experience
 
 **Freelance Developer · MediLogix**  
-Worked with a team on a paid client platform for processing exported medical device data. I helped parse PSI records, store structured results in Supabase, and refine features from client feedback.
+Helped deliver a paid client platform for processing medical device exports. I worked on parsing PSI records, storing structured data in Supabase, and refining features from client feedback.
 
-## Tech stack
+---
 
-**Languages:** C, C++, JavaScript, SQL, HTML, CSS · working knowledge of Python and Java  
-**Frontend:** React, Monaco Editor  
-**Backend and data:** Node.js, Express.js, PostgreSQL, MongoDB, Supabase  
-**Tools:** Git, GitHub, Docker, Postman, Vercel, Render, Cloudinary
+## 🛠️ Tech Stack
 
-## Beyond code
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css&amp;theme=dark" height="36" alt="C, C++, JavaScript, HTML, CSS" /> · SQL |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" height="36" alt="React" /> · Monaco Editor |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase&amp;theme=dark" height="36" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel&amp;theme=dark" height="36" alt="Git, GitHub, Docker, Postman, Vercel" /> · Render · Cloudinary |
 
-- **Head of Marketing, Theatron theatre club:** Lead marketing work and help plan productions and events.
-- **Hackathons:** Participated in the IIT Road Safety Hackathon, Kurukshetra-Hacks, Smart India Hackathon, and college hackathons.
+*Currently building foundational skills in Python and Java.*
 
-## Connect
+---
 
-[LinkedIn](https://www.linkedin.com/in/syedsameer1102/) · [Email](mailto:sameerahamed7616@gmail.com) · [GitHub](https://github.com/Syedsameer-10)
+## 🎭 Beyond Code
+
+- **Head of Marketing · Theatron:** Lead marketing for theatre productions and help plan events, logistics, and creative design.
+- **Hackathons:** Participated in IIT Road Safety Hackathon, Kurukshetra-Hacks, Smart India Hackathon, and college hackathons.
+
+---
+
+## 🔭 What's Next
+
+- Build useful software with thoughtful interfaces and dependable backend systems.
+- Grow through engineering internships, collaboration, and hackathons.
+
+---
+
+<p align="center">
+  <b>💼 Open to software engineering internships and collaboration.</b><br />
+  <a href="mailto:sameerahamed7616@gmail.com">sameerahamed7616@gmail.com</a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2F81F7,50:1f6feb,100:0d1117&amp;height=110&amp;section=footer" alt="Blue wave footer" />
+</p>
